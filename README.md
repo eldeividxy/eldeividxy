@@ -9,9 +9,11 @@
 As a special software engineer, I have a powerful background in designing a scalable web application, working on different layers of technology tray.
 I am happy to transform the difficult problems of an elegant, user -friendly design.
 
+I'm currently working on developing internal systems for Safinsa, a company located in Ahome, Sinaloa. We're working with integrated ERP software, Odoo Community.
+
 My interests go through artificial intelligence, where I will actively explore prompt engineering, fine-tuning of large language models, and the explore of generative AI applications. I am excited about the prospect of using these technologies to develop cutting solutions and improve the overall users' experience.
 
-- 🔭 I’m currently working on: Generative AI, Automation, and PropMs Engineering.
+- 🔭 I’m currently working on: Odoo community, Generative AI, Automation, and PropMs Engineering.
 - 🌱 I’m learning: AI agents.
 - 💬 Ask me about: Software development, AI integration with systems, and problem solving.
 - 📫 How to reach me: davidsotelopalafox@gmail.com.
