@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm David de Jesus Sotelo Palafox
+# 👋 Hi there, I'm David Sotelo
 
 🎓 **Software Engineer** | 💻 **Full-Stack Developer** | 🌐 **Tech Enthusiast**
 
