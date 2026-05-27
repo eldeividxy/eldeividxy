@@ -34,13 +34,6 @@ My interests go through artificial intelligence, where I will actively explore p
 ![Stable Diffusion](https://img.shields.io/badge/-Stable%20Diffusion-black?style=flat-square)
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-black?style=flat-square&logo=kalilinux)
 
-
----
-
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=eldeividxy&show_icons=true&theme=radical)
-
 ---
 
 ## 🌐 Connect with Me
