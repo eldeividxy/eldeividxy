@@ -4,7 +4,7 @@
 
 I build internal systems, business tools, automation workflows, and AI-assisted solutions focused on solving real operational problems.
 
-Currently, I’m working on the development of a custom **agro-financial ERP** built on **Odoo 18 Community**, where I have been involved in the full project lifecycle: requirements gathering, business process analysis, functional design, custom module development, testing, implementation, documentation, user training, and active support.
+Currently, I’m working on the development of a custom **Parafinancial ERP** built on **Odoo 18 Community**, where I have been involved in the full project lifecycle: requirements gathering, business process analysis, functional design, custom module development, testing, implementation, documentation, user training, and active support.
 
 ---
 
@@ -131,7 +131,7 @@ My focus is applying AI to automation, classification, content generation, data 
 
 ### Custom Multi-Company ERP on Odoo 18 Community
 
-I played a key technical role in the development of a custom multi-company ERP built on **Odoo 18 Community** for a business conglomerate with a main agro-financial operation.
+I played a key technical role in the development of a custom multi-company ERP built on **Odoo 18 Community** for a business conglomerate with a main Parafinancial operation.
 
 The system is currently in production and supports around **100 users**, **12 companies**, **6 branches**, and **6 warehouses**, centralizing business processes that were previously handled through Excel, Word templates, paper, and isolated systems.
 
